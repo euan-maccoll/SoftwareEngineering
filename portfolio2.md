@@ -9,3 +9,8 @@
  for me it currently displays "SoftwareEngineering" if you click it, it should display the repositorys that 
  can be changed to. 
  ![final cloned repository](https://github.com/euan-maccoll/SoftwareEngineering/blob/master/images/cloned_repo.png)
+
+## Instilation of visual studio 
+for the installation of visual studio i downloaded the installer from microsoft azure after selecting visual studio
+to be downloaded, after running the installer for visual studio you have the options between the available versions.
+![available versions](https://github.com/euan-maccoll/SoftwareEngineering/blob/master/images/visual_studio_installer.png)
