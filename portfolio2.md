@@ -1,3 +1,5 @@
 # Software Engineering portfolio week 2
 
-## cloning of the shared github
+## Cloning of the shared github
+ in visual studio press git tab and clone repository. This screen will be showed.
+ lolololol
