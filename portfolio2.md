@@ -10,7 +10,8 @@
  for me it currently displays "SoftwareEngineering" if you click it, it should display the repositorys that 
  can be changed to.   
 
- ![final cloned repository](https://github.com/euan-maccoll/SoftwareEngineering/blob/master/images/cloned_repo.png)
+ ![final cloned repository](https://github.com/euan-maccoll/SoftwareEngineering/blob/master/images/cloned_repo.png)  
+
  The repos ive cloned are the group project repo and my personal portfolio repository. when trying to push the changes 
  to the repository the file wouldnt be pushed because the remote name was different from the main branch name on github.
 
