@@ -14,3 +14,8 @@
 for the installation of visual studio i downloaded the installer from microsoft azure after selecting visual studio
 to be downloaded, after running the installer for visual studio you have the options between the available versions.
 ![available versions](https://github.com/euan-maccoll/SoftwareEngineering/blob/master/images/visual_studio_installer.png)
+for this download i downloaded the enterprise version. After pressign the install button theres a new display for 
+extensions to be added i selected the python, Azure development, ASPNET and web development.
+![extensions for visual studio](https://github.com/euan-maccoll/SoftwareEngineering/blob/master/images/extensions_added_vs.png)
+after this press install and visual visual studio will be downloaded and started
+
