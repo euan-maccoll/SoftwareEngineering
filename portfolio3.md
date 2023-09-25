@@ -1,7 +1,7 @@
 # portfolio week 3
 
 ## .maui app
-The creation of the .maui app 
+The creation of the .maui app    
 ![solution explorerer](https://github.com/euan-maccoll/SoftwareEngineering/blob/master/images/solution_explorer.png)  
 This is the folder layout for the completed .maui app. This shows the completion of the .maui app.
 
