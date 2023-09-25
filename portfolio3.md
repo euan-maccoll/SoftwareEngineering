@@ -5,6 +5,7 @@ The creation of the .maui app
 ![solution explorerer](https://github.com/euan-maccoll/SoftwareEngineering/blob/master/images/solution_explorer.png)  
 This is the folder layout for the completed .maui app. This shows the completion of the .maui app.
 
+
 ## product backlog
 This is the task ive selected from the issues list and the one i will continue to work on.
 ![product backlog](https://github.com/euan-maccoll/SoftwareEngineering/blob/master/images/product_backlog.png)  
